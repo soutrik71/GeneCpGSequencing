@@ -108,3 +108,16 @@ DNA is composed of **four nitrogenous bases** that play critical roles in geneti
 | **Cancer & Epigenetics?** | ✅ Highly relevant | ❌ Not a focus |
 | **Genomic Importance?** | ✅ Found in promoter regions | ✅ Found in replication regions |
 
+---
+## ** Important Codes **
+For local training and model hyperparameter tuning, the following code snippets are used:
+
+```python
+python -m src.main
+```
+
+For fast-api app deployment, the following code snippets are used:
+
+```python
+python -m app
+```
